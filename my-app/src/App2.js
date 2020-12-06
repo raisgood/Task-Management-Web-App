@@ -41,10 +41,12 @@ function App2() {
         <
         li > < input type = "checkbox" / > Hit the gym < /li> <
         li > Pay bills < input type = "checkbox" / > < /li> <
-        li > Meet George < input type = "checkbox" / > < /li> <
-        li > Buy eggs < input type = "checkbox" / > < /li> <
-        li > Read a book < input type = "checkbox" / > < /li> <
-        li > Organize office < input type = "checkbox" / > < /li> <
+        li > Meet Charlotte < input type = "checkbox" / > < /li> <
+        li > Buy Groceries < input type = "checkbox" / > < /li> <
+        li > Study < input type = "checkbox" / > < /li> <
+        li > Organize my Room < input type = "checkbox" / > < /li> <
+        li > Clean the Kitchen < input type = "checkbox" / > < /li> <
+        li > Hit the Sack < input type = "checkbox" / > < /li> <
         /ul> <
         /div>
     );
