@@ -1,17 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import './index2.css';
-//import './index3.css';
-//import App from './App';
-import App2 from './App2';
+//import '.App2/index2.css';
+//import '.App3/index3.css';
+import App from './App';
+//import App2 from './App2';
 //import App3 from './App3';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render( <
     React.StrictMode >
     <
-    App2 / >
+    App / >
     <
     /React.StrictMode>,
     document.getElementById('root')
